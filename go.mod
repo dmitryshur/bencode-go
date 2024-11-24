@@ -1,3 +1,3 @@
-module github.com/jackpal/bencode-go
+module github.com/dmitryshur/bencode-go
 
 go 1.21.4
